@@ -1,0 +1,28 @@
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\Books.mdf
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\Books_log.ldf
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\obj\Debug\BooksLibrary.csprojAssemblyReference.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\obj\Debug\BooksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\obj\Debug\BooksLibrary.csproj.CopyComplete
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\obj\Debug\BooksLibrary.dll
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\obj\Debug\BooksLibrary.pdb
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\BooksLibrary.dll.config
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\BooksLibrary.dll
+C:\Users\Romi\Desktop\Syed_Rumail_COMP212_Sec003_Test02\BooksLibrary\bin\Debug\BooksLibrary.pdb
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\Books.mdf
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\Books_log.ldf
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\BooksLibrary.dll.config
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\BooksLibrary.dll
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\BooksLibrary.pdb
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\obj\Debug\BooksLibrary.csprojAssemblyReference.cache
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\obj\Debug\BooksLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\obj\Debug\BooksLibrary.csproj.CopyComplete
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\obj\Debug\BooksLibrary.dll
+C:\Users\Romi\Desktop\Book Queries\BooksLibrary\obj\Debug\BooksLibrary.pdb
